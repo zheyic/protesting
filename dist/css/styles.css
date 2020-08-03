@@ -10206,7 +10206,9 @@ header.masthead h1 {
 }
 
 .mom-pick {
-  margin-left: -50px;
+  margin-left: auto;
+  margin-right: auto;
 }
+
 
 
